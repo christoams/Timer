@@ -7,4 +7,4 @@ All information:
 
 http://domo.domochris.fr/
 
-By, Chris
+Chris
