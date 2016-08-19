@@ -1,5 +1,5 @@
 # Timer
-Automotic timer electrical
+Automatic timer electrical
 Release 1 19/08/2016
 
 This project is for a automatic electrical timer (betwin 0 and 999 days).
